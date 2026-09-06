@@ -6,7 +6,8 @@
 ## Структура проекта:
 ```text
 ├── allure-report/
-│
+│   ├── img1.jpg
+│   └── img2.jpg
 │
 ├── auto-tests/
 │   ├── test_cart.py
