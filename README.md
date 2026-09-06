@@ -8,19 +8,19 @@
 ├── allure-report/
 │
 │
-├── automation/
+├── auto-tests/
 │   ├── test_cart.py
 │   ├── test_filter.py
 │   ├── test_reset_filter.py
 │   └── test_search_by_name.py
 │
-├── -/
-│
+├── presentation/
+│   └── презентация дипломного проекта.pdf
 │
 ├── test-cases and check-list/
-│
+│   └── Test IT - 9_6_2026 06_49_42.ods
 │
 ├── test-plan/
-│   └── Презентация дипломного проекта
+│   └── тест-план.odt
 │
 └── README.md
